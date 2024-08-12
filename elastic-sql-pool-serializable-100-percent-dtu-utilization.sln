@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elastic-sql-pool-serializable-100-percent-dtu-utilization", "elastic-sql-pool-serializable-100-percent-dtu-utilization\elastic-sql-pool-serializable-100-percent-dtu-utilization.csproj", "{4A3280C1-D71E-42E9-B10F-7800A6973F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3280C1-D71E-42E9-B10F-7800A6973F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3280C1-D71E-42E9-B10F-7800A6973F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3280C1-D71E-42E9-B10F-7800A6973F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3280C1-D71E-42E9-B10F-7800A6973F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D66542D-5EA7-49B5-B384-FF8B8FF0F72B}
+	EndGlobalSection
+EndGlobal

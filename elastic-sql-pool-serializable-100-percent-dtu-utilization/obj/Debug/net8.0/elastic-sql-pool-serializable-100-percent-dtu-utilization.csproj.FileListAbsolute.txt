@@ -1,0 +1,5 @@
+C:\Work\Test\elastic-sql-pool-serializable-100-percent-dtu-utilization\elastic-sql-pool-serializable-100-percent-dtu-utilization\obj\Debug\net8.0\elastic-sql-pool-serializable-100-percent-dtu-utilization.csproj.AssemblyReference.cache
+C:\Work\Test\elastic-sql-pool-serializable-100-percent-dtu-utilization\elastic-sql-pool-serializable-100-percent-dtu-utilization\obj\Debug\net8.0\elastic-sql-pool-serializable-100-percent-dtu-utilization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Test\elastic-sql-pool-serializable-100-percent-dtu-utilization\elastic-sql-pool-serializable-100-percent-dtu-utilization\obj\Debug\net8.0\elastic-sql-pool-serializable-100-percent-dtu-utilization.AssemblyInfoInputs.cache
+C:\Work\Test\elastic-sql-pool-serializable-100-percent-dtu-utilization\elastic-sql-pool-serializable-100-percent-dtu-utilization\obj\Debug\net8.0\elastic-sql-pool-serializable-100-percent-dtu-utilization.AssemblyInfo.cs
+C:\Work\Test\elastic-sql-pool-serializable-100-percent-dtu-utilization\elastic-sql-pool-serializable-100-percent-dtu-utilization\obj\Debug\net8.0\elastic-sql-pool-serializable-100-percent-dtu-utilization.csproj.CoreCompileInputs.cache
